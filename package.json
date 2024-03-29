@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "6.1.1",
     "@opuscapita/react-perfect-scrollbar": "^3.0.4",
     "@revenuecat/purchases-js": "0.1.0",
     "@testing-library/jest-dom": "^5.14.1",
